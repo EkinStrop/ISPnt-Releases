@@ -1,4 +1,4 @@
-# ISPn't
+# ISPn't RAW Webcam
 
 ISPn't turns a supported Android phone into a controllable Windows webcam using the phone's RAW camera output.
 
